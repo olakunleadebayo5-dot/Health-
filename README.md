@@ -122,4 +122,4 @@ The analysis shows that while global healthcare systems are effective overall, i
 ## 👨‍💻 Author
 
 **Samuel Adebayo**
-Aspiring Data Analyst | Power BI | Data Storytelling
+Data Analyst | Power BI | Data Storytelling
